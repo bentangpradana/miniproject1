@@ -1,6 +1,6 @@
 #!/bin/bash
 jawaban="Y"
-read -p "Apakah kamu yakin akan menginstall landingpage ? (Y/n) " pilih;
+read -p "Apakah kamu yakin akan menginstall Wordpress ? (Y/n) " pilih;
 if [ $pilih == $jawaban ];
 then
 echo "Menyiapkan Installasi wordpress"
